@@ -1,0 +1,6 @@
+# Ignora todos los archivos
+*
+
+# Exceptuando estos
+!.gitignore
+!Kaggle_Store_Sales.ipynb 
